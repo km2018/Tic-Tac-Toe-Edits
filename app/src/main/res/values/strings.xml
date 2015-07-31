@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dem Apples</string>
+    <string name="new_game">Restart</string>
+    <string name="action_settings">Settings</string>
+</resources>
